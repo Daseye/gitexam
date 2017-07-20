@@ -1,4 +1,6 @@
 i am not a good boy!
 how about you?
 they say i have to add a new line at the end of the file
+
 Git has a index called statge.
+Git track changes.
