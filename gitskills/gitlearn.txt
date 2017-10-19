@@ -1,2 +1,0 @@
-learn how to create a remote respository on GitHub
-learn how to clone and push code between local respository and remote respository
